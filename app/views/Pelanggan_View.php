@@ -14,13 +14,6 @@
   <link rel="stylesheet" href="public/AdminLTE-3.2.0/dist/css/adminlte.min.css">
 </head>
 
-  <!-- Style -->
-  <style>
-    .content-wrapper {
-      margin-bottom: 56px;
-    }
-  </style>
-
 <body class="hold-transition sidebar-mini">
 <!-- Site wrapper -->
 <div class="wrapper">
@@ -172,12 +165,12 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="../../plugins/jquery/jquery.min.js"></script>
+<script src="public/AdminLTE-3.2.0/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="public/AdminLTE-3.2.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="../../dist/js/adminlte.min.js"></script>
+<script src="public/AdminLTE-3.2.0/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="../../dist/js/demo.js"></script>
+<script src="public/AdminLTE-3.2.0/dist/js/demo.js"></script>
 </body>
 </html>
